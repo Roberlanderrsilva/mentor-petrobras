@@ -1,11 +1,11 @@
 <p align="right">
-  <img src="177188202877.png" width="80" alt="Marca Mentor Petrobrás">
+  <img src="1771868202877.png" width="80" alt="Marca Mentor Petrobrás">
 </p>
 
 # 📝 Mentor Petrobrás: Plataforma de Simulados para Operador
 
 <p align="center">
-  <img src="IMG-20240223-WA0025.jpg" alt="Mentor Banner" width="100%">
+  <img src="IMG-20260223-WA0025.jpg" alt="Mentor Banner" width="100%">
 </p>
 
 ## 🎯 Treine como se estivesse na Prova
@@ -23,6 +23,6 @@ O projeto segue uma estrutura organizada para garantir a performance da ferramen
 ├── main.py              # Script principal e interface do simulado
 ├── requirements.txt     # Dependências (Streamlit, Pandas)
 ├── .devcontainer/       # Configuração de ambiente de desenvolvimento
-├── 177188202877.png     # Logo oficial (Marca Registrada)
-├── IMG-20240223-WA0025.jpg # Banner principal do projeto
+├── 1771868202877.png    # Logo oficial (Marca Registrada)
+├── IMG-20260223-WA0025.jpg # Banner principal do projeto
 └── README.md            # Documentação técnica e guia
